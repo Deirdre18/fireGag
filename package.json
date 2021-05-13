@@ -24,7 +24,7 @@
     "@ionic-native/core": "5.33.0",
     "@angular/router": "11.2.14",
     "@capacitor/core": "2.4.7",
-    "@ionic/angular": "5.6.6",
+    "@ionic/angular": "5.6.7",
     "rxjs": "6.6.7",
     "tslib": "2.2.0",
     "zone.js": "0.11.4",
